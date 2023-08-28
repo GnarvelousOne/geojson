@@ -60,6 +60,4 @@ def coord_permimeter(coordinates):
     print(f'Perimeter of Polygon: {perimeter}')
     
 
-coord_permimeter(coord_set_list[1])
-
-print('')
+coord_permimeter(coord_set_list[0])
